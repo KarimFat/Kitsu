@@ -105,4 +105,4 @@ async def remove(ctx, number: int):
     except IndexError:
         await ctx.send("Une erreur s'est produite lors de la lecture de la chanson suivante dans la playlist.")
 
-bot.run('MTA2ODU4NDQxNjkyMzg4NTYxOQ.Gch0vE.fG4FuzzIUB2Iiz3tEzEir-FwEdt6JZx4vSm0N8')
+bot.run('MTA2ODU4NDQxNjkyMzg4NTYxOQ.GdmsNl.PML7y74cmxAvzf9dNDLCxKQ7_zXWd0uHWD_TeM')
